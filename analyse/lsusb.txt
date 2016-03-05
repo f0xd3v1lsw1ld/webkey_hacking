@@ -1,12 +1,2 @@
-Bus 004 Device 003: ID 8087:07da Intel Corp. 
-Bus 004 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
-Bus 004 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
-Bus 003 Device 004: ID 0c45:644a Microdia 
-Bus 003 Device 003: ID 0bda:0129 Realtek Semiconductor Corp. RTS5129 Card Reader Controller
-Bus 003 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
-Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
-Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
 Bus 001 Device 012: ID 05ac:020b Apple, Inc. Pro Keyboard [Mitsumi, A1048/US layout]
-Bus 001 Device 002: ID 0c45:0520 Microdia 
-Bus 001 Device 011: ID 0403:6001 Future Technology Devices International, Ltd FT232 USB-Serial (UART) IC
-Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+
